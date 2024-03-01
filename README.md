@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Expense application](https://github.com/MasameEh/Expenses_Application)
 
-- 🌱 I’m currently learning **Testing**
+  - 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Embedded systems, Flutter**
 
