@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masameeh" alt="masameeh" /></a> </p>
 
-- 🔭 I’m currently working on [Expense application](https://github.com/MasameEh/Expenses_Application)
+- 🔭 I’m currently working on Chat Mobile Application
 
 - 🌱 I’m currently learning **Backend**
 
