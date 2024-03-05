@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Chat Mobile Application
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend, Testing**
 
 - 💬 Ask me about **Embedded systems, Flutter**
 
