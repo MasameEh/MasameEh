@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend, Testing**
 
-- 💬 Ask me about **Embedded systems, Flutter**
+- 💬 Ask me about **Embedded systems, Flutter, Problem solving**
 
 - 📫 How to reach me **samehms116@gmail.com**
 
