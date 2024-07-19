@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masameeh" alt="masameeh" /></a> </p>
 
-- 🔭 I’m currently working on Todo Mobile Application as an implementation for GetX state managment
+- 🔭 I’m currently working on Ecommerce App
 
 - 🌱 I’m currently learning **Backend, Testing**
 
-- 💬 Ask me about **Embedded systems, Flutter, Problem solving**
+- 💬 Ask me about **Flutter, Problem solving**
 
 - 📫 How to reach me **samehms116@gmail.com**
 
