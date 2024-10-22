@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Ecommerce App
 
-- 🌱 I’m currently learning **Backend, Testing**
+- 🌱 I’m currently learning **Native Mobile Applications Development**
 
 - 💬 Ask me about **Flutter, Problem solving**
 
