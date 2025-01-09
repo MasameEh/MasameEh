@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masameeh" alt="masameeh" /></a> </p>
 
-- 🔭 I’m currently working on Ecommerce App
+- 🔭 I’m currently working on **Tic Tac Toc game using socket programming**
 
 - 🌱 I’m currently learning **Native Mobile Applications Development**
 
