@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Native Mobile Applications Development**
 
-- 💬 Ask me about **Flutter, Problem solving**
+- 💬 Ask me about **Android, Flutter, Problem solving**
 
 - 📫 How to reach me **samehms116@gmail.com**
 
