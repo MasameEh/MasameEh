@@ -5,13 +5,12 @@
 
 - 🔭 I’m currently working on **weather forecast android application**
 
-- 🌱 I’m currently learning **Native Mobile Applications Development**
+- 🌱 I’m currently learning **iOS Applications Development**
 
 - 💬 Ask me about **Android, Flutter, Problem solving**
 
 - 📫 How to reach me **samehms116@gmail.com**
 
-- ⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
