@@ -2,9 +2,9 @@
 
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on **Sports app using swift**
+- 🔭 I’m currently working on **M-Commerce App**
 
-- 🌱 I’m currently learning **iOS Applications Development**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Android, Flutter, Problem solving**
 
