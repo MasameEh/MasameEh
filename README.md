@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Souhoola App**
 
-- 🌱 I’m currently learning **KMP**
+- 🌱 I’m currently learning **KMP\CMP**
 
 - 💬 Ask me about **Android, Flutter, Problem solving**
 
