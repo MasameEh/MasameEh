@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on **Souhoola App**
+- 🔭 I’m currently working on **my e&**
 
 - 🌱 I’m currently learning **KMP\CMP**
 
